@@ -118,6 +118,7 @@ title: Privileges for a vCenter User
 |                                             | swap file placement                      |
 |                                             | unlock virtual machine                   |
 |                                             | upgrade virtual hardware                 |
+|                                             | inventory delete                         |
 | Virtual Machine (ALL) / Interaction (ALL)   |                                          |
 |                                             | acquire guest control ticket             |
 |                                             | answer question                          |
