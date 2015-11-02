@@ -144,6 +144,7 @@ title: Privileges for a vCenter User
 | Virtual Machine (ALL) / Inventory (ALL)     |                                          |
 |                                             | create from existing                     |
 |                                             | create new                               |
+|                                             | delete                                   |
 |                                             | move                                     |
 |                                             | register                                 |
 |                                             | remove                                   |
